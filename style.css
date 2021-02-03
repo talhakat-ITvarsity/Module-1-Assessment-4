@@ -1,0 +1,41 @@
+h1{
+    color: green;
+    font-family: sans-serif
+} 
+
+f{
+    color: #8d3f3f;
+    font-family: sans-serif
+}
+td{
+    color:black;
+}
+
+
+
+
+table{
+      font-family    : Helvetica, sans-sarif;
+      border-collapse: collapse;
+      border-width   : 1px;
+      border-style   : solid;
+      border-color   : #000000;
+}
+
+th {
+    font-weight     : 800;
+    background-color: rgba(239, 47, 47, 0.84);
+    color           : #000000;
+}
+
+
+.gallery img{
+        width: 100%;
+ }
+
+
+td {
+    font-weight     : 800;
+    background-color: whitesmoke;
+    color           : rgba(239, 47, 47, 0.84);
+}
